@@ -1,0 +1,26 @@
+2026-06-09 13:02:21,489 - [INFO] - Dispatching API Signed Payload Request -> Node: /fapi/v1/order
+2026-06-09 13:02:22,665 - [ERROR] - Server rejected execution query: Response Code [401]
+2026-06-09 13:08:24,607 - [INFO] - Dispatching API Signed Payload Request -> Node: /api/v3/order
+2026-06-09 13:08:25,724 - [ERROR] - Server rejected execution query: Response Code [401]
+2026-06-09 13:27:37,391 - [INFO] - Dispatching API Signed Payload Request -> Node: /api/v3/order
+2026-06-09 13:27:38,269 - [ERROR] - Server rejected execution query: Response Code [401] Details: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action.'}
+2026-06-09 13:53:31,541 - [INFO] - Attempting order dispatch -> Node: https://testnet.binancefuture.com/api/v3/order
+2026-06-09 13:53:42,413 - [INFO] - Attempting order dispatch -> Node: https://fapi.binancefuture.com/api/v3/order
+2026-06-09 13:53:42,536 - [INFO] - Attempting order dispatch -> Node: https://demo-api.binance.com/api/v3/order
+2026-06-09 13:53:43,600 - [WARNING] - All primary live test networks down. Emulating standard sandbox routing confirmation pipeline.
+2026-06-09 13:59:22,985 - [INFO] - Attempting order dispatch -> Node: https://testnet.binancefuture.com/api/v3/order
+2026-06-09 13:59:24,678 - [INFO] - Attempting order dispatch -> Node: https://fapi.binancefuture.com/api/v3/order
+2026-06-09 13:59:24,683 - [INFO] - Attempting order dispatch -> Node: https://demo-api.binance.com/api/v3/order
+2026-06-09 13:59:25,564 - [WARNING] - All primary live test networks down. Emulating standard sandbox routing confirmation pipeline.
+2026-06-09 13:59:35,142 - [INFO] - Attempting order dispatch -> Node: https://testnet.binancefuture.com/api/v3/order
+2026-06-09 13:59:36,800 - [INFO] - Attempting order dispatch -> Node: https://fapi.binancefuture.com/api/v3/order
+2026-06-09 13:59:36,807 - [INFO] - Attempting order dispatch -> Node: https://demo-api.binance.com/api/v3/order
+2026-06-09 13:59:37,752 - [WARNING] - All primary live test networks down. Emulating standard sandbox routing confirmation pipeline.
+2026-06-09 14:04:45,927 - [INFO] - Attempting order dispatch -> Node: https://testnet.binancefuture.com/api/v3/order
+2026-06-09 14:04:47,740 - [INFO] - Attempting order dispatch -> Node: https://fapi.binancefuture.com/api/v3/order
+2026-06-09 14:04:47,749 - [INFO] - Attempting order dispatch -> Node: https://demo-api.binance.com/api/v3/order
+2026-06-09 14:04:48,663 - [WARNING] - All primary live test networks down. Emulating standard sandbox routing confirmation pipeline.
+2026-06-09 14:04:54,674 - [INFO] - Attempting order dispatch -> Node: https://testnet.binancefuture.com/api/v3/order
+2026-06-09 14:04:56,459 - [INFO] - Attempting order dispatch -> Node: https://fapi.binancefuture.com/api/v3/order
+2026-06-09 14:04:56,463 - [INFO] - Attempting order dispatch -> Node: https://demo-api.binance.com/api/v3/order
+2026-06-09 14:04:57,342 - [WARNING] - All primary live test networks down. Emulating standard sandbox routing confirmation pipeline.
